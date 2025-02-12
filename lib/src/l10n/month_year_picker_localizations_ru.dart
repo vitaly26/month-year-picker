@@ -1,8 +1,8 @@
 import 'month_year_picker_localizations.dart';
 
-/// The translations for Polish (`pl`).
-class MonthYearPickerLocalizationsPl extends MonthYearPickerLocalizations {
-  MonthYearPickerLocalizationsPl([String locale = 'ru']) : super(locale);
+/// The translations for Polish (`ru`).
+class MonthYearPickerLocalizationsRu extends MonthYearPickerLocalizations {
+  MonthYearPickerLocalizationsRu([String locale = 'ru']) : super(locale);
 
   @override
   String get helpText => 'ВЫБЕРИТЕ МЕСЯЦ/ГОД';
