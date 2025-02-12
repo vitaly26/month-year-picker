@@ -1,6 +1,6 @@
 import 'month_year_picker_localizations.dart';
 
-/// The translations for Polish (`ru`).
+/// The translations for Russian (`ru`).
 class MonthYearPickerLocalizationsRu extends MonthYearPickerLocalizations {
   MonthYearPickerLocalizationsRu([String locale = 'ru']) : super(locale);
 
